@@ -1,5 +1,4 @@
 # Projet_Web
-Projet web Moodflix
 Moodflix, exploration et recommandations basées sur l'humeur des films.
 Moodflix est une plateforme web intelligente qui aide les utilisateurs à découvrir des films et des séries selon leur humeur du moment. 
 Le site propose des recommandations personnalisées adaptées à ce que vous ressentez. 
